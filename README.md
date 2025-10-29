@@ -1,8 +1,8 @@
 <h1 align="center"> Привет👋 Меня зовут Игорь! </h1>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/id_obanai)
-
 ## Обо мне
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/id_obanai)
 
 Я — начинающий аналитик данных из России, активно развивающийся в направлении **Data Science и прикладного машинного обучения**.
 
