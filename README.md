@@ -1,4 +1,6 @@
-<h1 align="center">Привет👋 Меня зовут Игорь!</h1>
+<h1 align="center"> Привет👋 Меня зовут Игорь! </h1>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/id_obanai)
 
 ## Обо мне
 
